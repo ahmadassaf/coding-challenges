@@ -15,5 +15,6 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 **Hint**
 : Summation rule of continuous range of numbers from 1 .. n = n(n+1)/2
+
 ![summationImage](https://upload.wikimedia.org/math/8/c/1/8c13104b74e13a61a0beb44fa8d6e46b.png)
 
